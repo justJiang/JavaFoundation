@@ -178,3 +178,12 @@
 * String类型当作方法参数传递时，其作用类似于基本数据类型。传递的是值。
 * StringBuffer和StringBuilder即常见的引用数据类型。
 
+## Java集合框架
+![Java集合框架](http://wx3.sinaimg.cn/mw690/7f139c3bgy1fgmtmbkotaj20tt08k74b.jpg)
+
+### 泛型
+ * 使用泛型前需先声明
+ * 在类、接口和方法上均可声明
+ * 在方法上使用泛型
+
+

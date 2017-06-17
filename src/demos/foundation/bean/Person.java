@@ -58,4 +58,8 @@ public class Person {
                 ", age=" + age +
                 '}';
     }
+
+    public <T> void saySomething(T t) {
+        System.out.println(t.toString());
+    }
 }
